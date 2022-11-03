@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>elSummary</name>
+   <tag></tag>
+   <elementGuidId>2be6eb3f-a418-4947-be39-c711f364985e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//tr[.//td/a[.='${issue_key}']]//td[@class='summary']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//tr[.//td/a[.='${issue_key}']]//td[@class='summary']</value>
+   </webElementProperties>
+</WebElementEntity>
